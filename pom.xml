@@ -5,11 +5,11 @@
    <artifactId>ResponsiveWeb</artifactId>
    <packaging>pom</packaging>
    <name>ResponsiveWeb</name>
-   <version>1.0.0-SNAPSHOT</version>
+   <version>1.0.0</version>
    <scm>
       <connection>https://github.com/saravanan-na/yahooTest.git</connection>
       <developerConnection>scm:git:https://github.com/saravanan-na/yahooTest.git</developerConnection>
       <url>scm:git:https://github.com/saravanan-na/yahooTest.git</url>
-     <tag>HEAD</tag>
+     <tag>1.0.0</tag>
   </scm>
 </project>
